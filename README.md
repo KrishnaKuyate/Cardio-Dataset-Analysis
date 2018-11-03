@@ -1,4 +1,4 @@
-# cardio data-Dataset-Analysis
+# Cardio Data:Dataset-Analysis
 use the cardio data set in R and share insights about the dataset.
 
 Minimum Steps for exploration:
